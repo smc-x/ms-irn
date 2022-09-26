@@ -1,3 +1,5 @@
+> Credits partially to [@fdap](https://github.com/fdap), partially to MindSpore authors.
+
 ## 目录
 
 - [目录](#目录)
